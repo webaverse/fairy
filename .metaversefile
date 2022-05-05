@@ -1,5 +1,6 @@
 {
   "name": "fairy",
+  "description": "fairy",
   "start_url": "fairy.glb",
   "components": [
     {
